@@ -19,4 +19,4 @@ Additionally, here's a list of exploratory projects from my school years (age 12
 - [Experiments with an interesting probability distribution](https://github.com/wrightom/probability-unknown-experiment)
 - [Calculate sqrt 2 to many decimal places](https://github.com/wrightom/sqrt2)
 - [Conway's Game of Life](https://github.com/wrightom/game-of-life)
-- [Play and solve Rubik's cube in flat representation.](https://github.com/wrightom/rubiks-cube-sim
+- [Play and solve Rubik's cube in flat representation.](https://github.com/wrightom/rubiks-cube-sim)
