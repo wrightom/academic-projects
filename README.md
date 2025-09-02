@@ -12,11 +12,12 @@ Also, see the following related links:
 
 Additionally, here's a list of exploratory projects from my school years (age 12-16):
 
-- [Generate beautiful wave interference patterns.](https://github.com/wrightom/interference-simulation)
+- [Generating beautiful wave interference patterns](https://github.com/wrightom/interference-simulation)
 - [A* pathfinding algorithm](https://github.com/wrightom/astar-pathfinding-gcse)
 - [Von Koch Curve generator](https://github.com/wrightom/von-koch-curve)
 - [Monte Carlo Pi generator](https://github.com/wrightom/monte-carlo-pi)
 - [Experiments with an interesting probability distribution](https://github.com/wrightom/probability-unknown-experiment)
 - [Calculate sqrt 2 to many decimal places](https://github.com/wrightom/sqrt2)
 - [Conway's Game of Life](https://github.com/wrightom/game-of-life)
-- [Play and solve Rubik's cube in flat representation.](https://github.com/wrightom/rubiks-cube-sim)
+- [Play and solve Rubik's cube in flat representation](https://github.com/wrightom/rubiks-cube-sim)
+- [Visualising the reaction of bromoethane with KOH](https://studio.youtube.com/video/GlC4PNj81d8/edit)
